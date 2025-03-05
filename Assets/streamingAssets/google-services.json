@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "478546953354",
+    "project_id": "archemicalproject",
+    "storage_bucket": "archemicalproject.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478546953354:android:2d525a2979f84f3a76d973",
+        "android_client_info": {
+          "package_name": "com.lognCoding.ARChemicalProject1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWMUhAZkdQlVkJpbX6-aFbARQBknkFYwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
